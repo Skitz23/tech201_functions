@@ -23,6 +23,13 @@ def = define
 
 print_something()
 
+# The Return statement
+
+def addition(int1, int2):
+    return int1 + int2
+
+ print(addition(2, 2))
+
 
 
 
