@@ -73,7 +73,13 @@ multi_args(1, 2, 3, 4, 5, 6)
 - use comments in your functions to give instructions on how to use them
 - consider using type hints to avoid type errors when you run your code
 
+# Calculations
 
+About the Program
+- Created a calculator program which asks the user for two numbers and an operator
+- The program checks to see if these inputs are valid
+- Then based on the input the program completes the operation and outputs the answer
+- I tried to implement and while loop to keep the calculator going but currently not functioning properly
 
 
 
