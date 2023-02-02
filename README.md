@@ -57,6 +57,11 @@ print(addition(10, 10))
 print(addition())
 ```
 
+This would return as 
+4
+20
+4
+
 # Multiple arguments
 
 ```def multi_args(*multiargs):
