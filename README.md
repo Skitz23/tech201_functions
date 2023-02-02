@@ -6,6 +6,9 @@ tech201_functions
  What is D R Y?
 DRY stand for Don't repeat yourself it means you should keep the code short and simple
 
+# What is a Functions?
+A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function. A function can return data as a result.
+
 # Creating a function
 
 ```
@@ -14,6 +17,8 @@ print("Something has been printed")
 print_something()
 ```
 
+When you run this code it should Return "something has been printed"
+
 # Functions and arguments
 
 ```def print_something(print_string):
@@ -21,6 +26,11 @@ print(print_string)
 print_something("this is my variable")
 print_something("This is the second time i called this function")
 ```
+When you run this code it should Return "This is my variable"
+
+"This is the second time i called this function"
+
+
 # In Java:
  
 ```public void print_string(string_text)
@@ -35,6 +45,8 @@ greeings("Skitz")
     return int1 + int2
 print(addition(2, 2))
 ```
+
+Return 4
  
 # Default arguments
 
